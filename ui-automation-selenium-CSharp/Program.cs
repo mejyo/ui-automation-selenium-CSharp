@@ -1,8 +1,8 @@
-﻿using app_automation.Global;
-using app_automation.Pages;
+﻿using App_automation.Global;
+using App_automation.Pages;
 using NUnit.Framework;
 
-namespace app_automation
+namespace App_automation
 {
     public static class Program
     {

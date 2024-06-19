@@ -1,8 +1,8 @@
-﻿using app_automation.Global;
+﻿using App_automation.Global;
 using OpenQA.Selenium;
 using SeleniumExtras.PageObjects;
 
-namespace app_automation.Pages
+namespace App_automation.Pages
 
 {
     class Login
@@ -36,7 +36,7 @@ namespace app_automation.Pages
             GlobalDefinitions.WaitForElement(GlobalDefinitions.driver, By.CssSelector("div[id='header-account'] button[type='button']"), 10);
             MyAccount.Click();
             Email.SendKeys("hi.its.jyo123@gmail.com");
-            Password.SendKeys("jbhifi@123");
+            Password.SendKeys("Testabc123");
             GlobalDefinitions.ImplicitWaitTime(20);
             LoginButton.Click();
         }

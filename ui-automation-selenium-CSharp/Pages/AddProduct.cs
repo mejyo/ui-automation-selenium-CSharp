@@ -1,9 +1,9 @@
-﻿using app_automation.Global;
+﻿using App_automation.Global;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using SeleniumExtras.PageObjects;
 
-namespace app_automation.Pages
+namespace App_automation.Pages
 {
     class AddProduct
     {
