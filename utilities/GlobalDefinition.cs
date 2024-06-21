@@ -3,7 +3,7 @@ using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
 using System;
 
-namespace App_automation.Global
+namespace App_automation.utilities
 {
     class GlobalDefinitions
     {
