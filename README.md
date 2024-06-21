@@ -8,7 +8,7 @@ Folder structure :-
 2. tests -> contains test class with Nunit style test cases.
 3. utilities -> contains classes for managing test data, classes for managing driver for chrome, firefox and edge and common functions.
 
-## Gettign started
+## Getting started
 
 Clone down this repository. You will need `Visual Studio 2022`, `.NET Core` and `git` installed globally on your machine.
 
