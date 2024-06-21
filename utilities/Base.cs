@@ -1,9 +1,9 @@
 ﻿using App_automation.Pages;
 using NUnit.Framework;
 using OpenQA.Selenium.Chrome;
-using static App_automation.Global.GlobalDefinitions;
+using static App_automation.utilities.GlobalDefinitions;
 
-namespace App_automation.Global
+namespace App_automation.utilities
 {
     class Base
     {

@@ -1,4 +1,4 @@
-﻿using App_automation.Global;
+﻿using App_automation.utilities;
 using OpenQA.Selenium;
 using SeleniumExtras.PageObjects;
 
